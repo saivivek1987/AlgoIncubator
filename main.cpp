@@ -15,6 +15,15 @@ struct node {
 
 node *start = NULL;
 
+void deleteNode(int data)
+{
+	//Add your code here	
+}
+void deleteNodeAtlast()
+{
+	//Add your code here	
+}
+
 void addNode(int data)
 {
 	node *temp = new node(data);
